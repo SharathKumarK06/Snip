@@ -29,4 +29,4 @@ See `:h snip` for a more thorough introduction.
 
 ### License
 
-[MIT License](https://github.com/quintik/snip/blob/master/LICENSE)
+[MIT License](https://github.com/SharathKumarK06/Snip/blob/master/LICENSE)
