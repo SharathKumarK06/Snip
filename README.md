@@ -6,7 +6,7 @@ Snip is a vim plugin for creating and managing vim abbreviations.
 
 Your preferred plugin manager, e.g with Vim-Plug:
 ```
-Plug "quintik/Snip"
+Plug "SharathKumarK06/Snip"
 ```
 
 ### Quick Start
